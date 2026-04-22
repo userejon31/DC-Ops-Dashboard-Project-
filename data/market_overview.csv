@@ -1,0 +1,6 @@
+Region,Capacity MW (2026),Growth YoY %,Latitude,Longitude,Source,Notes
+Queretaro,420,18.5,20.5888,-100.3899,"IDC Latin America Data Center Market 2024-2025; AWS Official Infrastructure Reports; GitHub Data Center Footprint Analysis",Strategic hub for nearshoring + colocation expansion; fastest growing region
+Mexico City,290,14.2,19.4326,-99.1332,"Statista Outlook: Data Center Infrastructure Mexico; Google Cloud LatAm Capacity Reports",Largest metro area; enterprise headquarters; government IT infrastructure
+Monterrey,165,16.8,25.6866,-100.3161,"IDC Regional IT Infrastructure Survey 2024-2025; Manufacturing IT Digitalization Report Mexico",Industrial hub; automotive + manufacturing IT support; regional manufacturing HQ
+Guadalajara,125,12.5,20.6597,-103.3496,"Mordor Intelligence: Mexico Data Center Market; Regional Tech Hub Assessment; Gov.mx Digital Infrastructure Plan",Growing tech corridor; startup ecosystem; software development hub
+Merida,68,21.3,20.9674,-89.5926,"LATAM Edge Computing Trends 2025; Mexican Government Digital Transformation Plan 2024-2026",Fastest growing; agricultural tech; tourism IT; government digitalization priority

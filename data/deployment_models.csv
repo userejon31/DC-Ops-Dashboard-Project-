@@ -1,0 +1,5 @@
+Model,Adoption %,Source,Notes
+Colocation,44,"IDC Global Data Center Trends 2024; LATAM Market Analysis; AWS + Google Cloud Infrastructure Maps","Dominant model for enterprises + SMBs in Mexico; cost-effective for mid-market"
+Hyperscale,32,"AWS Official Global Infrastructure Report; Google Cloud LatAm Capacity; Microsoft Azure Infrastructure","AWS CDMX region + GCP Mexico + Azure LatAm expansion; largest growth vector"
+Enterprise On-Prem,17,"Gartner Infrastructure Survey 2024-2025; Mexican Enterprise IT Survey; IDC Regional Assessment","Legacy + hybrid systems; banking + government retain on-prem; decreasing trend"
+Edge Micro-DC,7,"IDC Edge Computing Trends 2025; IoT Infrastructure LatAm; Mexican Gov Digital Plan","Early adoption; growing in manufacturing + agricultural tech; projected 15% by 2030"
